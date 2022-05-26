@@ -12,45 +12,77 @@ Jedoch ist nicht zu vernachlässigen, dass Mathematik uns auch ständig im Allta
 ## Aussagen und Mengen
 
 ### Aussagen
-
 ### Mengen
-
 ### Zahlenmengen
 
 
 ## Gleichungen
 
 ### Lineare Gelichungen
-
 ### Umformen von Gelichungen
-
 ### Quadratische Gleichungen
-
 ### Lineare Gleichungssysteme
 
 
 ## Dreiecke
 
 ### Rechtwinkelige Dreiecke
-
 ### Allgemeine Dreiecke
 
 
 ## Funktionen
 
 ### Reele Funktionen
-
 ### Lineare Funktionen
-
 ### Nichtlineare Funktionen
 
 
 ## Vektoren
 
 ### Rechenoperationen
-
 ### Geometrische Darstellung
-
 ### Betrag und Winkel
-
 ### Geraden
+
+-------------------------------------
+
+# 6. Klasse
+
+
+## Exponentialrechnung
+
+### Potenzen aus verschiedenen Zahlenmengen
+### Exponentialfunktion
+### Logarithmusfunktion
+
+
+## Ungleichungen
+
+## Funktionen
+
+### Reele Funktionen
+### Winkelfunktionen
+### Ergänzungen
+
+
+## Folgen und Reihen
+
+### wichtige Folgen
+### Von der Folge zur Reihe
+### Endliche vs unendliche Reihen
+### Anwendungen
+
+
+## Vektoren
+
+### Vektoren im $\mathbb{R}^3$
+### Geraden
+### Höherdimensionale Vektorräume
+
+
+## Stochastik
+
+### Beschreibende Statistik
+### Wahrscheinlichkeiten
+
+-------------------------------------
